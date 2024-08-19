@@ -1,0 +1,58 @@
+body
+{
+background-color: rgb(190, 212, 231);
+margin:0;
+padding:0;
+line-height: 1.6;
+}
+header
+{
+background-color: azure;
+color: rgb(19, 22, 21);
+padding: 10px;
+text-align: center;
+}
+header h1
+{
+    margin: o;
+    font-size: 2em;
+}
+nav ul
+{
+    list-style: ;
+    padding: 0%;
+    margin: 0%;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+nav ul li
+{
+    display: inline;
+}
+nav
+{
+    background-color: aliceblue;
+    padding: 0;
+
+}
+section
+{
+    padding: 20px;
+    margin: 20px;
+}
+project h3
+{
+    padding: 0%;
+    display: block;
+    font-size: 1.17em;
+    margin-top: 1em;
+}
+project
+{
+border: 1px;
+background-color: aquamarine;
+padding: 10px;
+margin: 5px;
+bottom: 20px;
+}
